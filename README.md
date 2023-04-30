@@ -1,2 +1,2 @@
 # aluraplus
-Pagina do combo Alura Línguas 
+Pagina do combo Alura mais Alura Línguas. 
